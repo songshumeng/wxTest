@@ -1,4 +1,4 @@
-// pages/orders/orders.js
+// pages/pitems/pitems.js
 Page({
 
   /**

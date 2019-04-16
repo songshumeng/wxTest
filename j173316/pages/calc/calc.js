@@ -1,4 +1,4 @@
-// pages/orders/orders.js
+// pages/calc/calc.js
 Page({
 
   /**
