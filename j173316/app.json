@@ -1,17 +1,14 @@
-{
+         {
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
     "pages/table/table",
+    "pages/lists/lists",
     "pages/orders/orders",
-    "pages/Wxmls/wxml",
-    "pages/lyb/lyb",
-    "pages/calc/calc",
+    "pages/Login/login",
+    "pages/Tools/tools",
     "pages/lxjsq/lxjsq",
-    "pages/pitems/pitems",
-    "pages/category/category",
-    "pages/guess/guess",
-    "pages/wxapi/wxapi",
+    "pages/lyb/lyb",
     "pages/map/map"
   ],
   "tabBar": {
@@ -22,39 +19,34 @@
     "list": [
       {
         "pagePath": "pages/index/index",
-        "iconPath": "images/ssm1.png",
-        "selectedIconPath": "/images/ssm1.png",
+        "iconPath": "/images/shouye.png",
+        "selectedIconPath": "/images/shouye1.png",
         "text": "首页"
       },
       {
-        "pagePath": "pages/map/map",
-        "iconPath": "images/ssm2.png",
-        "selectedIconPath": "/images/ssm2.png",
+        "pagePath": "pages/table/table",
+        "iconPath": "/images/gouwu.png",
+        "selectedIconPath": "/images/gouwu1.png",
         "text": "列表"
       },
       {
         "pagePath": "pages/lyb/lyb",
-        "iconPath": "images/ssm3.png",
-        "selectedIconPath": "images/ssm3.png",
+        "iconPath": "/images/geren.png",
+        "selectedIconPath": "/images/geren1.png",
         "text": "案例"
       },
       {
         "pagePath": "pages/logs/logs",
-        "iconPath": "images/ssm4.png",
-        "selectedIconPath": "images/ssm4.png",
+        "iconPath": "/images/dangan.png",
+        "selectedIconPath": "/images/dangan1.png",
         "text": "设置"
       }
     ]
   },
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "宋淑锰",
+    "navigationBarBackgroundColor": "#ccc",
+    "navigationBarTitleText": "美食探店",
     "navigationBarTextStyle": "black"
-  },
-  "permission": {
-    "scope.userLocation": {
-      "desc": "你的位置信息将用于小程序位置接口的效果展示"
-    }
   }
 }

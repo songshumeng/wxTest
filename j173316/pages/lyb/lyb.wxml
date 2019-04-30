@@ -39,13 +39,16 @@
   </label> 
   <label>
     <checkbox value="eat"/>
-   运动
+    睡觉
   </label> 
   <label>
     <checkbox value="eat"/>
-    逛淘宝
+    玩电脑
   </label> 
-  
+  <label>
+    <checkbox value="eat"/>
+    玩手机
+  </label> 
 </checkbox-group>
 </rich-text>
 <text class='z'></text>

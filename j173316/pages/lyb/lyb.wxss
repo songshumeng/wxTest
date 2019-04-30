@@ -16,7 +16,6 @@
 }
 .b{
   border: 1px solid #000;
-  height: -5px;
   width: 170px;
   float: right;
   margin-right: 60px;
