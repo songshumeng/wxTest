@@ -4,7 +4,7 @@
 		"ignore": []
 	},
 	"setting": {
-		"urlCheck": false,
+		"urlCheck": true,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
@@ -13,8 +13,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.0.4",
-	"appid": "wx7b3ddf62895e2aba",
-	"projectname": "ECMS",
+	"appid": "wxbf5891f0e45764b9",
+	"projectname": "wxTest-master",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

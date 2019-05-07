@@ -1,7 +1,34 @@
 <!--index.wxml-->
-<Topmenu id='mytopmenu'  uname='{{userInfo.nickName}}' usite='{{usite}}' />
-<pmdggl />
-<Swipelist id='myswipelist' usite='{{usite}}' />
-<LinkList id='mylinklist' usite='{{usite}}' />
-openid：{{uopenid}}
-<button class="loginx" size="mini" wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo">登录系统,获得VIP服务</button>
+<LinkList/>
+<pmdggl/>
+<Topmenu/>
+<view class="tr">
+
+</view>
+<view class="tr">
+<image src="../../images/ssm2.jpg" 
+style="width: 358px;" mode ="widthFix"></image>
+</view>
+
+<view class="tr">
+<image src="../../images/ssm3.jpg"
+style="width: 212px;" mode ="widthFix"></image>
+<image src="../../images/ssm4.jpg"
+style="width: 212px;" mode ="widthFix"></image>
+
+<image src="../../images/ssm5.jpg"
+style="width: 212px;" mode ="widthFix"></image>
+
+
+</view>
+
+<view class="tr">
+<image src="../../images/ssm6.jpg"
+style="width: 212px;" mode ="widthFix"></image>
+<image src="../../images/ssm8.jpg"
+style="width: 212px;" mode ="widthFix"></image>
+<image src="../../images/ssm7.jpg"
+style="width: 212px;" mode ="widthFix"></image>
+
+</view>
+

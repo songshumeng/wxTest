@@ -12,13 +12,13 @@ Component({
    */
   data: {
     imgList: [{
-      imagePath: "/images/home.png",
+      imagePath: "/images/zdj1.jpg",
       pagePath: "/pages/calc/calc"
     }, {
-      imagePath: "/images/home2.png",
+        imagePath: "/images/zdj2.jpg",
       pagePath: "/pages/lxjsq/lxjsq"
     }, {
-      imagePath: "/images/home3.png",
+        imagePath: "/images/zdj3.jpg",
       pagePath: "/pages/lxjsq/lxjsq"
     }
     ]
