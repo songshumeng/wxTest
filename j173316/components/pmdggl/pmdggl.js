@@ -11,7 +11,13 @@ Component({
    * 组件的初始数据
    */
   data: {
-    imgList: [{
+    imgList: [
+      
+      {
+        imagePath: "/images/ssm2.jpg",
+        pagePath: "/pages/lxjsq/lxjsq"
+      },
+      {
       imagePath: "/images/zdj1.jpg",
       pagePath: "/pages/calc/calc"
     }, {
@@ -19,6 +25,10 @@ Component({
       pagePath: "/pages/lxjsq/lxjsq"
     }, {
         imagePath: "/images/zdj3.jpg",
+      pagePath: "/pages/lxjsq/lxjsq"
+    },
+      {
+     imagePath: "/images/ssm2.jpg",
       pagePath: "/pages/lxjsq/lxjsq"
     }
     ]
